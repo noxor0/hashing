@@ -1,0 +1,219 @@
+  iilnnostt 1 not in list 
+  iilnnostt 1 not in list 
+dimosw 1 wisdom 
+eisw 1 wise 
+aceeirsw 1 wiseacre 
+acceikrsw 1 wisecrack 
+eeehiimnrsw 1 wisenheimer 
+hisw 1 wish 
+behinosw 1 wishbone 
+fhilsuw 1 wishful 
+hiswy 1 wishy 
+ipsw 1 wisp 
+ipswy 1 wispy 
+filstuw 1 wistful 
+itw 1 wit 
+chitw 1 witch 
+accfhirttw 1 witchcraft 
+hitw 2 whit with 
+ahiltw 1 withal 
+adhirtww 1 withdraw 
+aadhilrtww 1 withdrawal 
+adhinrtww 1 withdrawn 
+dehirtww 1 withdrew 
+ehitw 2 white withe 
+ehirtw 2 wither writhe 
+dehhiltw 1 withheld 
+dhhilotw 1 withhold 
+hiintw 1 within 
+hiottuw 1 without 
+adhinsttw 1 withstand 
+dhioosttw 1 withstood 
+hitwy 1 withy 
+einsstw 1 witness 
+ittw 2 twit witt 
+ittwy 1 witty 
+eivw 2 view wive 
+adirwz 1 wizard 
+bbelow 1 wobble 
+eow 2 owe woe 
+beeegnoow 1 woebegone 
+eflouw 1 woeful 
+kow 1 wok 
+ekow 1 woke 
+cloottw 1 wolcott 
+dlow 1 wold 
+flow 3 flow fowl wolf 
+eflow 1 wolfe 
+fflow 1 wolff 
+afgglnow 1 wolfgang 
+fhilosw 1 wolfish 
+elovw 2 vowel wolve 
+elosvw 1 wolves 
+amnow 1 woman 
+adhmnooow 1 womanhood 
+bmow 1 womb 
+abmotw 1 wombat 
+emnow 1 women 
+now 3 now own won 
+denorw 1 wonder 
+deflnoruw 1 wonderful 
+addelnnorw 1 wonderland 
+dnoorsuw 1 wondrous 
+gnow 2 gown wong 
+'notw 1 won't 
+notw 2 town wont 
+oow 1 woo 
+doow 1 wood 
+addoorw 1 woodard 
+bdooruwy 1 woodbury 
+acdeoorrvw 1 woodcarver 
+ccdkooow 1 woodcock 
+cdootuw 1 woodcut 
+denoow 1 wooden 
+adginoorw 1 woodgrain 
+dehnoow 1 woodhen 
+addlnoow 1 woodland 
+adlnooww 1 woodlawn 
+dloootw 1 woodlot 
+cdekoopw 1 woodpeck 
+dooorww 2 woodrow woodrow 
+dooorww 2 woodrow woodrow 
+dffooruw 1 woodruff 
+doosw 1 woods 
+ddehoosw 1 woodshed 
+ddeioosw 1 woodside 
+addoorww 2 woodward woodward 
+addoorww 2 woodward woodward 
+ddinooww 1 woodwind 
+dkooorww 1 woodwork 
+doowy 1 woody 
+addoorwy 1 woodyard 
+loow 1 wool 
+aeghloortw 1 woolgather 
+hlooortww 1 woolworth 
+eoorstw 1 wooster 
+opw 2 pow wop 
+ceeorrstw 1 worcester 
+dorw 1 word 
+dhoorrstww 1 wordsworth 
+dorwy 3 dowry rowdy wordy 
+eorw 2 rowe wore 
+korw 1 work 
+aadkorwy 1 workaday 
+bcehknorw 1 workbench 
+bkkooorw 1 workbook 
+adkorwy 1 workday 
+cefkoorrw 1 workforce 
+ehkoorrsw 1 workhorse 
+adkloorw 1 workload 
+akmnorw 1 workman 
+aeikklmnorw 1 workmanlike 
+ekmnorw 1 workmen 
+koortuw 1 workout 
+ceeikoprw 1 workpiece 
+acekloprw 1 workplace 
+eehkorstw 1 worksheet 
+hkooprsw 1 workshop 
+acekoprsw 1 workspace 
+aiknoorsttw 1 workstation 
+abeklortw 1 worktable 
+dlorw 1 world 
+ddeilorww 1 worldwide 
+morw 1 worm 
+morwy 1 wormy 
+norw 1 worn 
+eimoorrsw 1 worrisome 
+orrwy 1 worry 
+eorsw 2 swore worse 
+enorsw 1 worsen 
+hioprsw 1 worship 
+fhiloprsuw 1 worshipful 
+orstw 1 worst 
+hortw 2 throw worth 
+ghinnoorttw 1 worthington 
+ehhilortww 1 worthwhile 
+hortwy 1 worthy 
+anotw 1 wotan 
+dlouw 1 would 
+'dlnotuw 1 wouldn't 
+dnouw 1 wound 
+eovw 1 wove 
+enovw 1 woven 
+oww 1 wow 
+ackrw 1 wrack 
+ahirtw 1 wraith 
+aeglnrw 1 wrangle 
+aprw 2 warp wrap 
+appruw 1 wrapup 
+ahrtw 1 wrath 
+afhlrtuw 1 wrathful 
+aekrw 1 wreak 
+aehrtw 1 wreath 
+aeehrtw 2 weather wreathe 
+cekrw 1 wreck 
+aceegkrw 1 wreckage 
+cehnrw 1 wrench 
+erstw 1 wrest 
+eelrstw 2 swelter wrestle 
+cehrtw 1 wretch 
+eggilrw 1 wriggle 
+ghirtw 1 wright 
+egilrwy 1 wrigley 
+ginrw 1 wring 
+eiklnrw 1 wrinkle 
+irstw 1 wrist 
+abdinrstw 1 wristband 
+achirsttww 1 wristwatch 
+irtw 1 writ 
+eirtw 1 write 
+eiprtuw 1 writeup 
+ehirtw 2 wither writhe 
+einrttw 1 written 
+gnorw 2 grown wrong 
+dgnoorw 1 wrongdo 
+degnoorrw 1 wrongdoer 
+dgginnoorw 1 wrongdoing 
+fglnoruw 1 wrongful 
+aiknnorsw 1 wronskian 
+eortw 2 tower wrote 
+ghortuw 1 wrought 
+rwy 1 wry 
+'sw 1 w's 
+uw 1 wu 
+ahnuw 1 wuhan 
+vw 1 wv 
+wy 1 wy 
+adenottwy 1 wyandotte 
+attwy 1 wyatt 
+ehtwy 1 wyeth 
+eilwy 2 wiley wylie 
+amnwy 1 wyman 
+enrwy 1 wyner 
+nnwy 1 wynn 
+gimnowy 1 wyoming 
+x 1 x 
+aeirvx 1 xavier 
+ennox 1 xenon 
+abehinoopx 1 xenophobia 
+aeghoprrxy 1 xerography 
+eorxx 2 xerox xerox 
+eorxx 2 xerox xerox 
+eersxx 1 xerxes 
+ix 2 ix xi 
+'sx 1 x's 
+elmxy 1 xylem 
+eelnxy 1 xylene 
+ehlnoopxy 1 xylophone 
+y 1 y 
+achty 2 cathy yacht 
+aachmnsty 1 yachtsman 
+acehmnsty 1 yachtsmen 
+ahy 2 hay yah 
+aky 2 kay yak 
+aaikmy 1 yakima 
+aely 1 yale 
+--------------
+Total words placed: 23565
+Total number of collisions: 1612
+Secondary hashes used: 215

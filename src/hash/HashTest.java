@@ -4,7 +4,7 @@ import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileReader;
 import java.io.IOException;
-import java.util.HashMap;
+import java.io.PrintWriter;
 
 /*
  * After my first failed attempt to write my own hashing algorithm, I decided to do 
@@ -41,39 +41,43 @@ import java.util.HashMap;
  * 
  */
 
-public final class Testing {
+
+//NOTE: Instead of having the key + 0 if it doesnt exist, I return a default anagram of
+//"iilnnostt 1 not in list" 
+public final class HashTest {
 
 	public static void main(String[] args) throws IOException {
-		//TODO: add to lower case when searching for a word.
-		//mine
 		HashTable ht = new HashTable();
-		//the competition
-		HashMap<String, Anagram> mp = new HashMap<String, Anagram>();
-		
+
 		BufferedReader br = new BufferedReader
 				(new FileReader(new File("./words.txt")));
 		String line = null;
 		while((line = br.readLine()) != null) {
 			ht.put(new Anagram(line));
-			//competition
-			Anagram a = new Anagram(line);
-			mp.put(a.myKey, a);
+		}
+		br.close();
+
+		StringBuilder sb = new StringBuilder();
+		br = new BufferedReader
+				(new FileReader(args[0]));
+		while((line = br.readLine()) != null) {  
+			sb.append(ht.get(line).toString());
+			sb.append('\n');
 		}
 		br.close();
 		
-//		Anagram a = new Anagram("banana");
-		double start = System.nanoTime();
-//		ht.get("yo");
-//		mp.get(a.myKey);
-		double stop = System.nanoTime();
-		double total = (stop - start) / 1000000;
-
+		sb.append("--------------");
+		sb.append("\n");
+		sb.append("Total words placed: " + ht.myTotalWords);
+		sb.append("\n");
+		sb.append("Total number of collisions: " + ht.myCollisions);
+		sb.append("\n");
+		sb.append("Secondary hashes used: " + ht.myKeyRehash);
 		
-		System.out.println("--------------");
-		System.out.println("Total words placed: " + ht.myTotalWords);
-		System.out.println("Total number of collisions: " + ht.myCollisions);
-		System.out.println("Secondary hashes used: " + ht.myKeyRehash);
-		System.out.println("time: " + total + "ms");
+		PrintWriter pwOut = new PrintWriter(args[1]);
+		pwOut.println(sb.toString());
+		pwOut.close();
+
 	}
 
 }

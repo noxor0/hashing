@@ -1,7 +1,5 @@
 package hash;
 
-import java.util.Arrays;
-
 public final class HashTable {
 	
 	private Anagram[] myArr;
@@ -30,15 +28,12 @@ public final class HashTable {
 		}
 	}
 	
-	public Anagram get(final String theWord) {
+	public Anagram get(final String theKey) {
 		Anagram ana = null;
 		boolean isFound = false;
-		char[] word = theWord.toCharArray();
-		Arrays.sort(word);
-		String sortedWord = new String(word);
-		int hash = hash(sortedWord);
+		int hash = hash(theKey);
 		if(myArr[hash] != null) {
-			if (myArr[hash].myWords.contains(theWord)) {
+			if (myArr[hash].myKey.equals(theKey)) {
 				ana = myArr[hash];
 				isFound = true;
 			} else {
@@ -47,12 +42,12 @@ public final class HashTable {
 						break;
 					}
 					hash = hashAgain(hash);
-					if (myArr[hash].myWords.contains(theWord)) {
+					if (myArr[hash].myKey.equals(theKey)) {
 						ana = myArr[hash];
 						isFound = true;									
 					} 
 				}
-				if(!isFound) ana = new Anagram("Not in List");
+				if(!isFound) ana = new Anagram("Not in List"); 
 			}
 		} else {
 			ana = new Anagram("Not in List");
@@ -61,12 +56,12 @@ public final class HashTable {
 	}
 	
 	public int hash(final String theKey) {
-		double hash = 37;
+		int hash = 37;
 		for(int i = 0; i < theKey.length(); i++) {
-			hash = 41 * hash  + theKey.charAt(i);
+			hash = Math.abs(41 * hash  + theKey.charAt(i));
 		}
 		hash %= myTableSize;
-		return (int) hash;
+		return hash;
 	}
 	
 	@Override
